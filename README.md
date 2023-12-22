@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Javascript, CSS**
+ 🌱 I’m currently learning **LLM, Langhchain, Llama2**
 
 💬 Ask me about **Python, NLP, ML... or anything [here](https://github.com/Babur-Raiyan/Babur-Raiyan/issues)**
 
