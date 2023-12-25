@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **LLM, Langhchain, Llama2**
+ 🌱 I’m currently learning **LLM, Langhchain, Javascript**
 
 💬 Ask me about **Python, NLP, ML... or anything [here](https://github.com/Babur-Raiyan/Babur-Raiyan/issues)**
 
