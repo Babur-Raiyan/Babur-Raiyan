@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,vscode,github,git,ae" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,javascript,au,powershell,pr,cpp,flask,regex" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,html,css,vscode,github,git,ae,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,javascript,au,powershell,pr,cpp,flask,regex,expressjs" />
 </div>
 
 <br/>
